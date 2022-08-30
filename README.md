@@ -1,4 +1,7 @@
-Computer engineer, Teacher and Youtube content creator. My main programming languages/platforms are: Javascript, Java, PHP and C++.
+<div align="center"><h1> SOY RENE DOMINGUEZ</h1> </div>
+
+<h3 align="center">Computer engineer, Teacher and Youtube content creator.</h3>
+
 
 You can follow me in the next sites/platforms 😊
 
