@@ -1,4 +1,7 @@
-<center><h1>SOY RENE DOMINGUEZ</h1></center>
+<center><h1>SOY RENE DOMINGUEZ</h1>
+<img src="https://seeklogo.com/images/C/cecytem-logo-57EA94498B-seeklogo.com.png">
+</center>
+
 
 ### Hi there 👋
 
